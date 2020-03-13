@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Works\\Projetos\\AspNetCoreMVC\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {}
+    "C:\\Users\\Marco-Work\\Source\\Repos\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\Works\\Projetos\\AspNetCoreMVC\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {
+    "C:\\Users\\Marco-Work\\Source\\Repos\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Works\\Projetos\\AspNetCoreMVC\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Marco-Work\\Source\\Repos\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
         "projectName": "AspNetCoreMVC",
-        "projectPath": "C:\\Works\\Projetos\\AspNetCoreMVC\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
+        "projectPath": "C:\\Users\\Marco-Work\\Source\\Repos\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
         "packagesPath": "C:\\Users\\Marco-Work\\.nuget\\packages\\",
-        "outputPath": "C:\\Works\\Projetos\\AspNetCoreMVC\\AspNetCoreMVC\\obj\\",
+        "outputPath": "C:\\Users\\Marco-Work\\Source\\Repos\\AspNetCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

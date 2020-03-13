@@ -20,7 +20,8 @@ namespace AspNetCoreMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<string> paises = new List<string>() { "Brasil", "China", "Uruaguai" };
+            return View(paises);
         }
 
         public IActionResult Privacy()
